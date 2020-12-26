@@ -1,0 +1,31 @@
+table {
+    border: none;
+    width: 100%;
+}
+
+td {
+    border: 1px solid #000000;
+    height: 30;
+    width: 30;
+}
+
+.title {
+    background-color: darkred;
+    color: white;
+    /* padding-left: 29%; */
+    /* border-bottom: 19px; */
+    padding: 3px;
+    text-align: center;
+    width: 100%
+}
+
+.game-over {
+    background-color: white;
+    font-size: 30px;
+    padding-left: 7%;
+    color: red;
+}
+
+.container {
+    width: 50%;
+}
